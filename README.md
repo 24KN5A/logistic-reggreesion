@@ -1,1 +1,1 @@
-# logistic-reggreesion
+# ML-PROJECT-1
